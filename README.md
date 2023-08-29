@@ -13,4 +13,4 @@ docker-compose up --build
 Для отправки сообщений применяется ElasticEmail в качестве SMTP провайдера
 
 Графическое представление и структура проекта:
-<img src='https://github.com/fedotovdmitriy14/notifications/blob/master/structure.jpg' />
+<img src='https://github.com/mod-web/notifications/blob/master/structure.jpg' />
